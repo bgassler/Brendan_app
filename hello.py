@@ -57,4 +57,4 @@ app.add_url_rule('/remote/',
                  methods=['GET', 'POST'])
 
 app.debug = True
-app.run()
+#app.run()
